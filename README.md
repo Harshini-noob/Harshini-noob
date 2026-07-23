@@ -49,7 +49,7 @@ A full-stack AI financial advisory platform with JWT/bcrypt auth, automated bank
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshini-noob&theme=tokyonight&hide_border=true" />
 </p>
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/Harshini-noob/Harshini-noob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/{Harsini-noob}/{Harshini-noob}/output/github-contribution-grid-snake-dark.svg)
 <br>
 
 ### 🏅 Achievements & Certifications
