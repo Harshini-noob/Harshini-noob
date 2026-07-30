@@ -41,16 +41,17 @@ A full-stack AI financial advisory platform with JWT/bcrypt auth, automated bank
 
 <br>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
+![My GitHub Game](game.gif)
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Harshini-noob&theme=tokyonight&hide_border=true">
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshini-noob&theme=tokyonight&hide_border=true" />
-</p>
-
-![Snake animation](https://raw.githubusercontent.com/{Harsini-noob}/{Harshini-noob}/output/github-contribution-grid-snake-dark.svg)
-<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini-noob&theme=github-dark&hide_border=true&radius=10" />
+</div>
 
 ### 🏅 Achievements & Certifications
 
